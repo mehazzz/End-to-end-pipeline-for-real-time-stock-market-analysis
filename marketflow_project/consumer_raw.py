@@ -1,0 +1,1 @@
+print('Kafka Consumer placeholder')
